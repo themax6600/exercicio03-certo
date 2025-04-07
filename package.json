@@ -1,7 +1,8 @@
 {
   "devDependencies": {
     "grunt": "^1.5.3",
-    "sass": "^1.86.0"
+    "grunt-contrib-sass": "^2.0.0",
+    "sass": "^1.86.3"
   },
   "name": "exercicio04",
   "version": "1.0.0",
